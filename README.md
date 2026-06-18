@@ -4,14 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20GitHub!&height=120&section=header"/>
 </p>
 
-<h1 align="center">
-  Hey there! 👋 I'm Shivam Paswan
-  <img src="https://raw.githubusercontent.com/Shivaay100/Shivaay100/main/wave.gif" width="35px">
-</h1>
 
-<h3 align="center">
+
+<h2 align="center">
   🚀 CSE Student | 💻 Developer | 🤖 AI & DSA Enthusiast
-</h3>
+</h2>
 
 <p align="center">
   “Code. Learn. Build. Repeat.”
