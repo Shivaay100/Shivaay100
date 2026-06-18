@@ -4,14 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20My%20GitHub!&height=120&section=header"/>
 </p>
 
-
-
 <h2 align="center">
   🚀 CSE Student | 💻 Developer | 🤖 AI & DSA Enthusiast
 </h2>
 
 <p align="center">
-  “Code. Learn. Build. Repeat.”
+  <em>“Code. Learn. Build. Repeat.”</em>
 </p>
 
 ---
@@ -19,17 +17,14 @@
 ## 💬 Connect with Me
 
 <p align="center">
-<a href="https://github.com/Shivaay100">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
+<a href="https://github.com/Shivaay100" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/shivam-kumar-paswan-0585032a0/">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+<a href="https://www.linkedin.com/in/shivam-kumar-paswan-0585032a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>
-</a>
-<a href="shivampaswan1215225@gmail.com">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+<a href="mailto:shivampaswan1215225@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
